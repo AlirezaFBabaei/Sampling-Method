@@ -4,6 +4,8 @@ This repository contains the implementation of a novel sampling method utilized 
 ## Overview:
 In the pursuit of accurate medical image segmentation, particularly in scenarios with imbalanced class distributions, a novel sampling method was devised. This approach aims to prioritize pixels within lesion areas (such as tumors, cysts, or polyps) over background regions, thereby enhancing the model's ability to delineate important anatomical structures.
 
+![Sampling Method](Sampling_Method.png)
+
 ## Key Components:
 Imbalance Ratio (IR) Calculation: The method computes the imbalance ratio for each image in the dataset. This ratio, derived from the division of pixels in the lesion region by those in the background, serves as a criterion for image selection.
 
