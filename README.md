@@ -23,4 +23,4 @@ By integrating this sampling method into the dataset creation process, we aim to
 ## Acknowledgment:
 We acknowledge the contributions of all authors involved in the development and validation of this sampling method, as detailed in the referenced paper.
 
-For more information on the methodology and results, please refer to the paper: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482524003895)https://www.sciencedirect.com/science/article/abs/pii/S0010482524003895
+For more information on the methodology and results, please refer to the paper: [Paper] (https://www.sciencedirect.com/science/article/abs/pii/S0010482524003895)
